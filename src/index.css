@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Patua+One&family=Roboto:wght@500&display=swap');
+
+*{
+    font-family: 'Merriweather', serif;
+    font-family: 'Patua One', cursive;
+    font-family: 'Roboto', sans-serif;
+}
